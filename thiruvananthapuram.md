@@ -2,7 +2,7 @@
 
 List of subdistricts and educational districts in Thiruvananthapuram district is given below. The schools are listed in these pages.
 
-##Subdistricts in Thiruvananthapuram District
+## Subdistricts in Thiruvananthapuram District
 
 - Attingal
 - Balaramapuram
@@ -17,7 +17,7 @@ List of subdistricts and educational districts in Thiruvananthapuram district is
 - Palode
 - Kaniyapuram
 
-##Educational Districts 
+## Educational Districts 
 
 - Thiruvananthapuram 
 - Neyyattinkara
